@@ -1,0 +1,8 @@
+20221020	22:07:34	8af3c0db-0e26-41be-a6ec-03cf368fb552	/new-page.html	GET
+20221020	22:07:34	f7059517-9868-42e9-ac76-58cd0197100e	/css/style.css	GET
+20221020	22:07:34	c44ce0af-64fa-43b6-8985-cda06ec8bc1d	/img/img1.jpg	GET
+20221020	22:07:34	e7c4723c-8c3f-455c-90c6-fbcc4241a36b	/favicon.ico	GET
+20221020	22:08:19	14fbd9a5-0065-479d-a32b-21f5947dd30c	/new-page.html	GET
+20221020	22:08:36	91b0d252-ba19-4b69-ba9f-c0ccd7f6878e	/new-page.html	GET
+20221020	22:08:36	f00ce091-27ee-4965-ada6-c5627cfec722	/css/style.css	GET
+20221020	22:08:36	23ff570c-aecf-4b14-a536-f3589c782be1	/img/img1.jpg	GET
